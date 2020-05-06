@@ -10,4 +10,4 @@ A 30 minute presentation on Apache Spark with an interactive component for the c
 - How does this technology work and who is it designed for?
 - What are some examples of real-world applications? 
 
-There is also a technical demonstration in Jupyter notebook of Spark Streaming in action. 
+Attached to this repository is also a technical demonstration in Jupyter notebook of Spark Streaming in action. 
