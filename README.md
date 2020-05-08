@@ -10,4 +10,4 @@ A 30 minute presentation on Apache Spark with an interactive component for the c
 - How does this technology work and who is it designed for?
 - What are some examples of real-world applications? 
 
-Attached to this repository is also an example of Spark SQL and Spark RDDs (Resilient Distributed Dataframes) in demonstration. The code for Spark instantiation simply allows us to connect to the school network to run the program. 
+Attached to this repository is also an example of Spark SQL and Spark RDDs (Resilient Distributed Dataframes) in demonstration. The code for Spark instantiation simply allows us to connect to the University of Calgary network to run the program. 
